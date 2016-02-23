@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="water">
+
+        <item> •	การให้น้ำ
+•	ระบบน้ำแบบสปริงเกลอร์ ควรรดน้ำทุก 2 วันครั้ง นานครั้งละ 10-15 นาที
+•	แบบปล่อยน้ำตามร่อง ควรทำอาทิตย์ละครั้ง
+ </item>
+        <item> •	การให้น้ำ
+•	ฤดูแห้ง : หมั่นรดน้ำอย่างสม่ำเสมอ
+•	ฤดูฝน : รดน้ำวันเว้นวัน
+•	สังเกตหน้าดินเป็นหลัก อย่าให้น้ำจนแฉะหรือท่วมขัง
+ </item>
+        <item> •	การให้น้ำ
+•	ควรรดน้ำวันละ 1-2 ครั้ง (เช้า-เย็น)
+•	ลักษณะการฉีดทำเป็นฝอย
+•	ต้องไม่ขาดน้ำ เพราะจะทำให้หยุดชะงักการเจริญเติบโต
+ </item>
+        <item> •	การให้น้ำ
+•	ควรรดน้ำวันละ 1-2 ครั้ง (เช้า-เย็น)
+•	ลักษณะการฉีดทำเป็นฝอย
+•	ต้องไม่ขาดน้ำ เพราะจะทำให้หยุดชะงักการเจริญเติบโต
+ </item>
+        <item> •	การให้น้ำ
+•	ควรให้น้ำทุกวัน ทั้งเช้าและเย็นแค่พอชุ่ม
+•	อย่าให้น้ำท่วมขังในแปลง
+ </item>
+        <item> ithem6 </item>
+        <item> ithem7 </item>
+        <item> ithem8 </item>
+        <item> ithem9 </item>
+        <item> ithem10 </item>
+        <item> ithem11 </item>
+        <item> ithem12 </item>
+        <item> ithem13 </item>
+        <item> ithem14 </item>
+        <item> ithem15 </item>
+        <item> ithem16 </item>
+        <item> ithem17 </item>
+        <item> ithem18 </item>
+        <item> ithem19 </item>
+        <item> ithem20 </item>
+        <item> ithem21 </item>
+        <item> ithem22 </item>
+        <item> ithem23 </item>
+        <item> ithem24 </item>
+        <item> ithem25 </item>
+        <item> ithem26 </item>
+        <item> ithem27 </item>
+        <item> ithem28 </item>
+        <item> ithem29 </item>
+        <item> ithem30 </item>
+        <item> ithem31 </item>
+        <item> ithem32 </item>
+        <item> ithem33 </item>
+        <item> ithem34 </item>
+        <item> ithem35 </item>
+        <item> ithem36 </item>
+        <item> ithem37 </item>
+        <item> ithem38 </item>
+        <item> ithem39 </item>
+        <item> ithem40 </item>
+        <item> ithem41 </item>
+        <item> ithem42 </item>
+        <item> ithem43 </item>
+        <item> ithem44 </item>
+        <item> ithem45 </item>
+        <item> ithem46 </item>
+        <item> ithem47 </item>
+        <item> ithem48 </item>
+        <item> ithem49 </item>
+        <item> ithem50 </item>
+
+    </string-array>
+
+</resources>

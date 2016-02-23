@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nameth">
+
+        <item>กระเจียบเขียว</item>
+        <item>กระเทียม</item>
+        <item> กวางตุ้ง ฮ้องเต้ </item>
+        <item> กวางตุ้ง</item>
+        <item> กะเพรา </item>
+        <item> กะหล่ำดอก </item>
+        <item> กะหล่ำปลี </item>
+        <item> กุยช่าย </item>
+        <item> ข่า </item>
+        <item> ข้าวโพด </item>
+        <item> ขิง </item>
+        <item> คะน้า </item>
+        <item> แครอท </item>
+        <item> ต้นหอม </item>
+        <item> ตะไคร้ </item>
+        <item> แตงกวา </item>
+        <item> ถั่วฝักยาว </item>
+        <item> ถั่วลันเตา </item>
+        <item> บร็อคโคลี่ </item>
+        <item> บวบเหลี่ยม </item>
+        <item> ผักกาดขาว </item>
+        <item> ผักกาดหอม </item>
+        <item> ผักชะอม </item>
+        <item> ผักชี </item>
+        <item> ผักชีฝรั่ง</item>
+        <item> ผักชีลาว</item>
+        <item> ผักบุ้งจีน </item>
+        <item> ผักหวานป่า </item>
+        <item> พริก </item>
+        <item> พริกขี้หนู </item>
+        <item> พริกไทย </item>
+        <item> ฟักทอง </item>
+        <item> ฟักแม้ว </item>
+        <item> มะกรูด </item>
+        <item> มะเขือเทศ </item>
+        <item> มะเขือเปราะ </item>
+        <item> มันแกว </item>
+        <item> มันเทศ </item>
+        <item> มันฝรั่ง </item>
+        <item> มันสำปะหลัง </item>
+        <item> สะตอ </item>
+        <item> หอมแดง </item>
+        <item> หอมหัวใหญ่ </item>
+        <item> หัวไชเท้า </item>
+        <item> หัวหอม </item>
+        <item> เห็ดนางฟ้า </item>
+        <item> เห็ดฟาง </item>
+        <item> เห็ดหอม </item>
+        <item> เห็ดหูหนู </item>
+        <item> ithem50 </item>
+
+
+    </string-array>
+
+
+</resources>

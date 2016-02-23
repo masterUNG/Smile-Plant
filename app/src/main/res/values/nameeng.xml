@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nameeng">
+
+        <item> okra </item>
+        <item> garlic </item>
+        <item> Guangdong Huang </item>
+        <item> Cantonese </item>
+        <item> basil </item>
+        <item> Cauliflower </item>
+        <item> Cabbage </item>
+        <item> Kuicheai </item>
+        <item> pin </item>
+        <item> corn </item>
+        <item> ginger </item>
+        <item> kale </item>
+        <item> carrots </item>
+        <item> ithem14 </item>
+        <item> ithem15 </item>
+        <item> cucumbers </item>
+        <item> lentils </item>
+        <item> Peas </item>
+        <item> Broccoli </item>
+        <item> ithem20 </item>
+        <item> Chinese cabbage </item>
+        <item> Lettuce </item>
+        <item> ithem23 </item>
+        <item> coriander </item>
+        <item> Parsley</item>
+        <item> dill </item>
+        <item> ithem27 </item>
+        <item> ithem28 </item>
+        <item> chili </item>
+        <item> paprika </item>
+        <item> pepper </item>
+        <item> Pumpkin </item>
+        <item> ithem33 </item>
+        <item> bergamot </item>
+        <item> tomatoes </item>
+        <item> Eggplant </item>
+        <item> yam </item>
+        <item> sweet potato </item>
+        <item> potatoes </item>
+        <item> Yucca </item>
+        <item> Sato </item>
+        <item> shallots </item>
+        <item> Onion </item>
+        <item> radishes </item>
+        <item> Onions </item>
+        <item> oyster mushroom </item>
+        <item> Volvariella </item>
+        <item> Lentinula </item>
+        <item> Auricularia </item>
+        <item> ithem50 </item>
+
+    </string-array>
+
+</resources>

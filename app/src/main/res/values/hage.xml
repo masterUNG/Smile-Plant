@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="hage">
+
+        <item> สั้น </item>
+        <item> ปานกลาง </item>
+        <item> สั้น </item>
+        <item> สั้น</item>
+        <item> สั้น </item>
+        <item> ปานกลาง </item>
+        <item> ปานกลาง </item>
+        <item> ยาว</item>
+        <item> ยาว </item>
+        <item> ปานกลาง </item>
+        <item> ยาว </item>
+        <item> สั้น </item>
+        <item> ปานกลาง</item>
+        <item> ปานกลาง </item>
+        <item> ปานกลาง </item>
+        <item> สั้น </item>
+        <item> ปานกลาง </item>
+        <item> ithem18 </item>
+        <item> ithem19 </item>
+        <item> ithem20 </item>
+        <item> ithem21 </item>
+        <item> ithem22 </item>
+        <item> ithem23 </item>
+        <item> ithem24 </item>
+        <item> ithem25 </item>
+        <item> ithem26 </item>
+        <item> ithem27 </item>
+        <item> ithem28 </item>
+        <item> ithem29 </item>
+        <item> ithem30 </item>
+        <item> ithem31 </item>
+        <item> ithem32 </item>
+        <item> ithem33 </item>
+        <item> ithem34 </item>
+        <item> ithem35 </item>
+        <item> ithem36 </item>
+        <item> ithem37 </item>
+        <item> ithem38 </item>
+        <item> ithem39 </item>
+        <item> ithem40 </item>
+        <item> ithem41 </item>
+        <item> ithem42 </item>
+        <item> ithem43 </item>
+        <item> ithem44 </item>
+        <item> ithem45 </item>
+        <item> ithem46 </item>
+        <item> ithem47 </item>
+        <item> ithem48 </item>
+        <item> ithem49 </item>
+        <item> ithem50 </item>
+
+    </string-array>
+
+</resources>

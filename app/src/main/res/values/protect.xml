@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="protect">
+
+        <item> •	การป้องกันและกำจัดศัตรูพืช
+•	ศัตรูพืชที่มักพบ : แมลงหวี่ขาว, เพลี้ยไฟ, เพลี้ยจักจั่น
+•	วิธีการป้องกัน : ใช้น้ำส้มควันไม้ ฉีดพ้นทุก 7 วันครั้ง หรือ ในช่วงระบาด
+ </item>
+        <item> •	การป้องกันและกำจัดศัตรูพืช
+•	ศัตรูพืชของกระเทียมถือว่าค่อนข้างน้อย หรือแทบไม่มีเลยเพราะต้นกระเทียมสามารถป้องกันตัวเองได้
+•	โรคที่ควรระวัง คือ โรคโคนเน่า ที่เกิดจากน้ำท่วมขัง เพราะฉะนั้น ควรระวังอย่าให้น้ำจนแฉะ หรือท่วมขัง
+ </item>
+        <item> •	การป้องกันและกำจัดศัตรูพืช
+•	ฉีดพ่นป้องกันแมลงศัตรูพืช ด้วยน้ำหมักสมุนไพรสกัดจาก สะเดา ดาวเรือง มะเขือเทศ สาบเสือ และหนอนตายหยาก นำไปฉีดในช่วงเช้าตรู่หรือค่ำ เพื่อป้องกันหนอนใยผัก
+•	การป้องกันอีกทางด้วยการปลูก มะเขือเทศ หรือ ดาวเรือง ในพื้นที่ระหว่างแปลงช่วยขับไล่แมลงได้อีกด้วย
+  </item>
+        <item> •	การป้องกันและกำจัดศัตรูพืช
+•	ฉีดพ่นป้องกันแมลงศัตรูพืช ด้วยน้ำหมักสมุนไพรสกัดจาก สะเดา ดาวเรือง มะเขือเทศ สาบเสือ และหนอนตายหยาก นำไปฉีดในช่วงเช้าตรู่หรือค่ำ เพื่อป้องกันหนอนใยผัก
+•	การป้องกันอีกทางด้วยการปลูก มะเขือเทศ หรือ ดาวเรือง ในพื้นที่ระหว่างแปลงช่วยขับไล่แมลงได้อีกด้วย
+ </item>
+        <item> •	การป้องกันและกำจัดศัตรูพืช
+•	กะเพรามักมีปัญหาจากการทำลายของโรคและแมลงน้อยมาก จึงแทบไม่จำเป็นต้องใช้สารปราบศัตรูพืช
+•	ในระยะแรกควรมีการพรวนดินและกำจัดวัชพืชทุก 1-2 สัปดาห์ โดยใช้มือถอน
+•	ใช้จอบหรือเสียมดายหญ้าออก แต่ระวังอย่าให้กระทบกระเทือนต้นและราก
+ </item>
+        <item> ithem6 </item>
+        <item> ithem7 </item>
+        <item> ithem8 </item>
+        <item> ithem9 </item>
+        <item> ithem10 </item>
+        <item> ithem11 </item>
+        <item> ithem12 </item>
+        <item> ithem13 </item>
+        <item> ithem14 </item>
+        <item> ithem15 </item>
+        <item> ithem16 </item>
+        <item> ithem17 </item>
+        <item> ithem18 </item>
+        <item> ithem19 </item>
+        <item> ithem20 </item>
+        <item> ithem21 </item>
+        <item> ithem22 </item>
+        <item> ithem23 </item>
+        <item> ithem24 </item>
+        <item> ithem25 </item>
+        <item> ithem26 </item>
+        <item> ithem27 </item>
+        <item> ithem28 </item>
+        <item> ithem29 </item>
+        <item> ithem30 </item>
+        <item> ithem31 </item>
+        <item> ithem32 </item>
+        <item> ithem33 </item>
+        <item> ithem34 </item>
+        <item> ithem35 </item>
+        <item> ithem36 </item>
+        <item> ithem37 </item>
+        <item> ithem38 </item>
+        <item> ithem39 </item>
+        <item> ithem40 </item>
+        <item> ithem41 </item>
+        <item> ithem42 </item>
+        <item> ithem43 </item>
+        <item> ithem44 </item>
+        <item> ithem45 </item>
+        <item> ithem46 </item>
+        <item> ithem47 </item>
+        <item> ithem48 </item>
+        <item> ithem49 </item>
+        <item> ithem50 </item>
+
+    </string-array>
+
+</resources>

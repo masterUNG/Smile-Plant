@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Smile Plant</string>
+
+    <string name="hub1">พืช</string>
+    <string name="hub2">ความรู้เบื้องต้น</string>
+    <string name="hub3">แบบทบสอบ</string>
+    <string name="hub4">ค้้นหา</string>
+
+
+    <string name="hub5">ผลผลิด</string>
+    <string name="hub6">อายุ</string>
+    <string name="hub7">ฤดูการ</string>
+    <string name="hub8">วิธีการปลูก</string>
+
+
+</resources>
