@@ -30,6 +30,12 @@ public class Hub1Activity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hub1);
+
+        bindWidget();
+
+        imageController();
+
+
     }   // Main Method
 
     public void onClick(View view) {
