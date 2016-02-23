@@ -18,7 +18,8 @@
         <activity android:name=".Hub1Activity" />
         <activity android:name=".Hub2Activity" />
         <activity android:name=".Hub3Activity" />
-        <activity android:name=".Hub4Activity"></activity>
+        <activity android:name=".Hub4Activity" />
+        <activity android:name=".Searchview"></activity>
     </application>
 
 </manifest>

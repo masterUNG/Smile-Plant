@@ -22,99 +22,29 @@
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:layout_below="@+id/textView">
 
-        <LinearLayout
-            android:orientation="horizontal"
-            android:layout_width="match_parent"
-            android:layout_height="@dimen/icon">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/blue"
+            android:layout_weight="1"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp" />
 
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/imageView"
-                android:layout_weight="1"
-                android:src="@drawable/blue" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView2"
+            android:src="@drawable/gray"
+            android:layout_weight="1"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp" />
 
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/imageView2"
-                android:layout_weight="1"
-                android:src="@drawable/gray" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:orientation="horizontal"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/hub1"
-                android:id="@+id/textView2"
-                android:layout_weight="1"
-                android:textSize="@dimen/h2"
-                android:gravity="center_horizontal"
-                android:textColor="@color/text" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/hub2"
-                android:id="@+id/textView3"
-                android:layout_weight="1"
-                android:textSize="@dimen/h2"
-                android:gravity="center_horizontal"
-                android:textColor="@color/text" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:orientation="horizontal"
-            android:layout_width="match_parent"
-            android:layout_height="@dimen/icon" >
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/imageView3"
-                android:layout_weight="1"
-                android:src="@drawable/green" />
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:id="@+id/imageView4"
-                android:layout_weight="1"
-                android:src="@drawable/orange" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:orientation="horizontal"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" >
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/hub3"
-                android:id="@+id/textView4"
-                android:layout_weight="1"
-                android:textSize="@dimen/h2"
-                android:gravity="center_horizontal"
-                android:textColor="@color/text" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="@string/hub4"
-                android:id="@+id/textView5"
-                android:layout_weight="1"
-                android:textSize="@dimen/h2"
-                android:gravity="center_horizontal"
-                android:textColor="@color/text" />
-        </LinearLayout>
     </LinearLayout>
+
 </RelativeLayout>

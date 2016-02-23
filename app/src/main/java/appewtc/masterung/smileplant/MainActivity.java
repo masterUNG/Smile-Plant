@@ -13,8 +13,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     //Explicit
     private ManageTABLE manageTABLE;
-    private ImageView hub1ImageView, hub2ImageView,
-            hub3ImageView, hub4ImageView;
+    private ImageView hub1ImageView, hub2ImageView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -60,8 +59,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         hub1ImageView.setOnClickListener(this);
         hub2ImageView.setOnClickListener(this);
-        hub3ImageView.setOnClickListener(this);
-        hub4ImageView.setOnClickListener(this);
+//        hub3ImageView.setOnClickListener(this);
+//        hub4ImageView.setOnClickListener(this);
 
     }   // imageController
 
@@ -69,8 +68,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         hub1ImageView = (ImageView) findViewById(R.id.imageView);
         hub2ImageView = (ImageView) findViewById(R.id.imageView2);
-        hub3ImageView = (ImageView) findViewById(R.id.imageView3);
-        hub4ImageView = (ImageView) findViewById(R.id.imageView4);
+//        hub3ImageView = (ImageView) findViewById(R.id.imageView3);
+//        hub4ImageView = (ImageView) findViewById(R.id.imageView4);
 
     }   //bindWidget
 
@@ -149,12 +148,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.imageView2:
                 startActivity(new Intent(MainActivity.this, Hub2Activity.class));
                 break;
-            case R.id.imageView3:
-                startActivity(new Intent(MainActivity.this, Hub3Activity.class));
-                break;
-            case R.id.imageView4:
-                startActivity(new Intent(MainActivity.this, Hub4Activity.class));
-                break;
+//            case R.id.imageView3:
+//                startActivity(new Intent(MainActivity.this, Hub3Activity.class));
+//                break;
+//            case R.id.imageView4:
+//                startActivity(new Intent(MainActivity.this, Hub4Activity.class));
+//                break;
 
         }   // switch
 
