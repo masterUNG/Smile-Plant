@@ -30,7 +30,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/search"
             android:layout_weight="1"
-            android:src="@drawable/blue"
+            android:src="@drawable/gray"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="20dp"
             android:layout_marginBottom="20dp" />
