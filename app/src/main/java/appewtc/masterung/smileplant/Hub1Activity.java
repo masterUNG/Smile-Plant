@@ -35,8 +35,6 @@ public class Hub1Activity extends AppCompatActivity implements View.OnClickListe
 
         imageController();
 
-
-
     }   // Main Method
 
     public void onClick(View view) {
