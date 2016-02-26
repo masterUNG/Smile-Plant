@@ -34,7 +34,7 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/imageView"
+                android:id="@+id/product"
                 android:src="@drawable/s1"
                 android:layout_weight="1"
                 android:layout_gravity="center_horizontal" />
@@ -42,7 +42,7 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/imageView2"
+                android:id="@+id/age"
                 android:src="@drawable/s2"
                 android:layout_weight="1"
                 android:layout_gravity="center_horizontal" />
@@ -57,14 +57,14 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/imageView5"
+                android:id="@+id/season"
                 android:src="@drawable/s3"
                 android:layout_weight="1" />
 
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:id="@+id/imageView6"
+                android:id="@+id/plant"
                 android:src="@drawable/s4"
                 android:layout_weight="1" />
         </LinearLayout>

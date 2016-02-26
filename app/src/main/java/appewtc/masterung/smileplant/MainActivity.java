@@ -25,19 +25,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         //Request Database
         manageTABLE = new ManageTABLE(this);
-
         //Delete All SQLite ==> ถ้าข้อมูลครับ 49 Record ก็ไม่ต้องลบแล้ว
         deleteAllSQLite();
-
         //Setup Data สำหรับข้อมูลที่ยังไม่สมบูรณ์
         forSetupData();
-
         //Image Controller
         imageController();
-
         //Long Click
         longclick();
-
 
     }   // Main Method
 
@@ -48,7 +43,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             public boolean onLongClick(View view) {
 
                 Toast.makeText(MainActivity.this, "ข้อความที่ต้องการ", Toast.LENGTH_SHORT).show();
-
                 return true;
             }
         });

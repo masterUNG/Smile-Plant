@@ -10,37 +10,25 @@ public class Hub1Activity extends AppCompatActivity implements View.OnClickListe
 
     private ImageView searchImageView, clickImageView,tickImageView;
 
-
     private void imageController() {
-
         searchImageView.setOnClickListener(this);
         clickImageView.setOnClickListener(this);
         tickImageView.setOnClickListener(this);
     }   // imageController
-
     private void bindWidget() {
-
         searchImageView = (ImageView) findViewById(R.id.search);
         clickImageView = (ImageView) findViewById(R.id.click);
         tickImageView = (ImageView) findViewById(R.id.tick);
     }   //bindWidget
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hub1);
-
         bindWidget();
-
         imageController();
-
     }   // Main Method
-
     public void onClick(View view) {
-
         switch (view.getId()) {
-
             case R.id.search:
                 startActivity(new Intent(Hub1Activity.this, Searchview.class));
                 break;
@@ -55,7 +43,5 @@ public class Hub1Activity extends AppCompatActivity implements View.OnClickListe
 //                break;
 
         }   // switch
-
     }   // onClick
-
 }   // Main Class
