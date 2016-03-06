@@ -15,7 +15,7 @@ public class Hub3Activity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hub3);
 
-        setContentView(R.layout.activity_hub3);
+
         bindWidget();
         imageController();
 
